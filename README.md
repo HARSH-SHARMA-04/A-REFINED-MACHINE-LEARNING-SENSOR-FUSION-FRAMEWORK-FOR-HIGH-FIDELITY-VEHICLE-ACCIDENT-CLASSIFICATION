@@ -1,0 +1,2 @@
+# A-REFINED-MACHINE-LEARNING-SENSOR-FUSION-FRAMEWORK-FOR-HIGH-FIDELITY-VEHICLE-ACCIDENT-CLASSIFICATION
+A multi-sensor ML framework using GY-87 IMU, NEO-6M GPS &amp; ESP8266 on an RC vehicle to classify vehicle accidents (Collision, Fall-Off, Normal Driving) with 98.84% accuracy via a Stacking Ensemble (ANN + SVM + Decision Tree + Naive Bayes). Includes ADASYN augmentation, feature engineering, and permutation importance analysis. | B.Tech CSE 
