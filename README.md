@@ -180,7 +180,7 @@ jupyter notebook ML_Sensor_Fusion_Accident_Classification.ipynb
 
 ```
 📦 project-root/
-┣    📄 CAR_DATA_RAW_VALUES.csv                                  # Raw multi-sensor CSV files
+┣    📄 CAR_DATA_RAW_VALUES.xlsx                                 # Raw multi-sensor XLSX files
 ┣    📄 ACCIDENT CLASSIFICATION FINAL DATASET.csv                # Final merged 9070-sample datase
 ┣    📄 Arduino IDE CODE for Data Collection.ino                 # ESP8266 firmware for data collection
 ┣    📄 Final_Code.ipynb                                         # Main Jupyter notebook
