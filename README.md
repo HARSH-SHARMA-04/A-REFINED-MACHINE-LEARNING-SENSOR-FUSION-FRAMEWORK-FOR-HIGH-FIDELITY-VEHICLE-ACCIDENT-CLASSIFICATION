@@ -16,8 +16,7 @@
 | Name | Roll No. |
 |------|----------|
 | Harsh Sharma | 220102157 |
-| Devraj Shukla | 220102862 |
-| Amit Kumar | 220102849 |
+
 
 **Supervisor:** Mr. Tarun Kumar, Assistant Professor, DIT University
 
